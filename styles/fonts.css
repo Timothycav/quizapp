@@ -1,0 +1,12 @@
+/* styles/fonts.css */
+
+@font-face {
+    font-family: 'fonts/Rubik-VariableFont_wght.ttf';
+    src: url('C:\Users\Timot\quiz2\fonts\Rubik-VariableFont_wght.ttf') format('truetype');
+    /* You can add additional font styles (e.g., font-weight, font-style) here */
+  }
+  
+  body {
+    font-family: 'fonts/Rubik-VariableFont_wght.ttf', sans-serif; /* Use the font in your CSS */
+  }
+  

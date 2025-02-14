@@ -1,0 +1,102 @@
+ [
+        {
+            "question": "What does CSS stand for?",
+            "options": [
+                "Colorful Style Sheets",
+                "Computer Style Sheets",
+                "Cascading Style Sheets",
+                "Creative Style Sheets"
+            ],
+            "correctAnswer": "Cascading Style Sheets"
+        },
+        {
+            "question": "Which HTML attribute is used to define inline styles?",
+            "options": [
+                "styles",
+                "style",
+                "class",
+                "font-style"
+            ],
+            "correctAnswer": "style"
+        },
+        {
+            "question": "How do you insert a comment in a CSS file?",
+            "options": [
+                "// this is a comment //",
+                "/* this is a comment */",
+                "-- this is a comment --",
+                "<!-- this is a comment -->"
+            ],
+            "correctAnswer": "/* this is a comment */"
+        },
+        {
+            "question": "Which property is used to change the background color of an element?",
+            "options": [
+                "color",
+                "bgcolor",
+                "background-color",
+                "background"
+            ],
+            "correctAnswer": "background-color"
+        },
+        {
+            "question": "How do you apply a style to all <p> elements?",
+            "options": [
+                "p { }",
+                ".p { }",
+                "#p { }",
+                "all.p { }"
+            ],
+            "correctAnswer": "p { }"
+        },
+        {
+            "question": "Which property is used to change the font of an element?",
+            "options": [
+                "font-style",
+                "text-style",
+                "font-family",
+                "typeface"
+            ],
+            "correctAnswer": "font-family"
+        },
+        {
+            "question": "How do you make each word in a text start with a capital letter?",
+            "options": [
+                "text-transform: capitalize",
+                "text-transform: uppercase",
+                "text-style: capital",
+                "font-transform: capitalize"
+            ],
+            "correctAnswer": "text-transform: capitalize"
+        },
+        {
+            "question": "How do you select an element with the class name 'header'?",
+            "options": [
+                ".header",
+                "#header",
+                "header",
+                "*header"
+            ],
+            "correctAnswer": ".header"
+        },
+        {
+            "question": "What is the default value of the 'position' property?",
+            "options": [
+                "relative",
+                "fixed",
+                "absolute",
+                "static"
+            ],
+            "correctAnswer": "static"
+        },
+        {
+            "question": "What is the purpose of the z-index property in CSS?",
+            "options": [
+                "To count the number of elements",
+                "To set the magnification level of an element",
+                "To specify the stack order of an element",
+                "To create a zoom effect"
+            ],
+            "correctAnswer": "To specify the stack order of an element"
+        }
+    ]

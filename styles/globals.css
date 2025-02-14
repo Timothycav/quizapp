@@ -40,6 +40,10 @@
   --card-border-rgb: 131, 134, 135;
 }
 
+li:hover {
+  color: rgb(63, 56, 56);
+}
+
 @media (prefers-color-scheme: dark) {
   :root {
     --foreground-rgb: 255, 255, 255;
@@ -73,6 +77,15 @@
   }
 }
 
+
+
+body {
+  font-family: 'Rubik-VariableFont_wght.ttf', sans-serif; /* Use the font in your CSS */
+}
+
+
+
+
 * {
   box-sizing: border-box;
   padding: 0;
@@ -86,13 +99,8 @@ body {
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+ background-color:  rgb(67, 67, 88);
+ color: #fff
 }
 
 a {
