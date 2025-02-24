@@ -113,3 +113,11 @@ a {
     color-scheme: dark;
   }
 }
+
+@media (max-width: 768px) {
+
+  .mainIndex {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+}

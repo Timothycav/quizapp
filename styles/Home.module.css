@@ -262,3 +262,19 @@ font-size: 2rem;
   cursor: pointer;
   min-width: 80%;
 }
+
+@media (max-width: 768px) {
+
+  .main,.mainIndex {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+  .oneIndex, .twoIndex {
+    margin-top: 0rem;
+    
+  }
+  .frontQuiz2 {
+    margin-top: 1rem;
+    margin-bottom: 0rem;
+  }
+}
